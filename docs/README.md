@@ -10,11 +10,11 @@ Cyberattacks are sophisticated and it’s difficult to find hidden threats early
 While sophisticated threats like APTs and insider attacks hide within the enterprise, indications of breaches can be gleaned by analyzing data. Locating a breach requires advanced detection methods such as finding dynamic and polymorphic threat patterns and identifying behavior of threat actors over weeks, months and even years.
 
 ### Use Case:	
-  Advanced Threat Detection
-	Higher Productivity
-	Threat Hunting
-	Enhance Visibility and Detection
-	Fraudulent website Activity
+ - Advanced Threat Detection
+ - Higher Productivity
+ - Threat Hunting
+ - Enhance Visibility and Detection
+ - Fraudulent website Activity
 
 ### Outcome:	
 Providing advanced Insider Security to an organization and defending the infrastructure form cyber attacks
