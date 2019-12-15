@@ -1,7 +1,7 @@
 # User Behaviour Analytics
 
 
-![Python](https://alibahaari.github.io/Badge/Python.png)  https://alibahaari.github.io/Badge/npm.png		![HTML](https://alibahaari.github.io/Badge/HTML.png)		![CSS](https://alibahaari.github.io/Badge/JavaScript.png)   ![JS](https://alibahaari.github.io/Badge/CSS.png)
+![Python](https://alibahaari.github.io/Badge/Python.png)  ![NPM](https://alibahaari.github.io/Badge/npm.png)		![HTML](https://alibahaari.github.io/Badge/HTML.png)		![CSS](https://alibahaari.github.io/Badge/JavaScript.png)   ![JS](https://alibahaari.github.io/Badge/CSS.png)
 
 
 <a href="https://github.com/kaiiyer/UBA/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/kaiiyer/UBA"></a>
