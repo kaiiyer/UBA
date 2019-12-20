@@ -29,5 +29,6 @@ To aggregate and analyze machine data for Operational Intelligence using User Be
 ```
 
 2. 
-```pip3 install requirements.txt
+```
+pip3 install requirements.txt
 ```
