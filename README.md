@@ -18,3 +18,16 @@ To aggregate and analyze machine data for Operational Intelligence using User Be
  - Threat Hunting
  - Enhance Visibility and Detection
  - Fraudulent website Activity
+
+## Installation
+
+1. Install pip3 if you don't have it already
+```    
+    curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+    python3 get-pip.py     
+    sudo python3 get-pip.py
+```
+
+2. 
+```pip3 install requirements.txt
+```
