@@ -21,8 +21,6 @@ To aggregate and analyze machine data for Operational Intelligence using User Be
 
 ## Installation
 
-## Installation
-
 Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 Clone your fork down to your local machine
 ```
