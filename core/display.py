@@ -13,25 +13,29 @@ You should have received a copy of the GNU Lesser General Public License
 along with the OpenUB Platform. If not, see <http://www.gnu.org/licenses/>.
 '''
 
-'''
-@name entity
-@description purposed for entity management
-'''
-
 import logging
+import json
 
-class Entity():
+from database import DB
+
+
+
+class Display():
     def __init__(self):
-        logging.info("Entity is initiated")
-
-
-    '''
-    check for new entities
-    check for dormant entities
-    adjust scores
-    '''
-    def perform_entity_analysis(self):
-        #check for new entities
-
-        #for each new entity, register in entity db
+        logging.info("Display init")
         pass
+
+    def get_system_display(self):
+
+        logging.warning("get_system_display")
+        db = DB()
+        #db = client['pymongo_test']
+
+        # some JSON:
+        x =  '{ "name":"John", "age":30, "city":"New York"}'
+
+        # parse x:
+        y = json.loads(x)
+
+        # the result is a Python dictionary:
+        print(y["age"])

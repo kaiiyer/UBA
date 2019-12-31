@@ -13,25 +13,25 @@ You should have received a copy of the GNU Lesser General Public License
 along with the OpenUB Platform. If not, see <http://www.gnu.org/licenses/>.
 '''
 
+
+import unittest
+from dataset_test import DatasetTestCase, DatasetSessionTestCase
+
 '''
-@name entity
-@description purposed for entity management
+@description everything in Dataset File
 '''
+class DatasetTest():
+    @staticmethod
+    def Run():
 
-import logging
+        # dataset related file
+        test_cases = [DatasetTestCase,DatasetSessionTestCase]
+        for test_class in test_cases:
+            suite = unittest.TestLoader().loadTestsFromTestCase(test_class)
+            unittest.TextTestRunner(verbosity=2).run(suite)
 
-class Entity():
-    def __init__(self):
-        logging.info("Entity is initiated")
 
-
-    '''
-    check for new entities
-    check for dormant entities
-    adjust scores
-    '''
-    def perform_entity_analysis(self):
-        #check for new entities
-
-        #for each new entity, register in entity db
-        pass
+class Test():
+    @staticmethod
+    def Run():
+        DatasetTest.Run()

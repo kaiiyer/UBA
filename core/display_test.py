@@ -13,25 +13,14 @@ You should have received a copy of the GNU Lesser General Public License
 along with the OpenUB Platform. If not, see <http://www.gnu.org/licenses/>.
 '''
 
+import unittest
+from display import CSV
+
+
 '''
-@name entity
-@description purposed for entity management
+@name DisplayTestCase
+@description this is the test case for all Dataset classes
 '''
-
-import logging
-
-class Entity():
-    def __init__(self):
-        logging.info("Entity is initiated")
-
-
-    '''
-    check for new entities
-    check for dormant entities
-    adjust scores
-    '''
-    def perform_entity_analysis(self):
-        #check for new entities
-
-        #for each new entity, register in entity db
+class DisplayTestCase(unittest.TestCase):
+    def setUp(self):
         pass

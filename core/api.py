@@ -13,25 +13,10 @@ You should have received a copy of the GNU Lesser General Public License
 along with the OpenUB Platform. If not, see <http://www.gnu.org/licenses/>.
 '''
 
-'''
-@name entity
-@description purposed for entity management
-'''
-
 import logging
 
-class Entity():
-    def __init__(self):
-        logging.info("Entity is initiated")
-
-
-    '''
-    check for new entities
-    check for dormant entities
-    adjust scores
-    '''
-    def perform_entity_analysis(self):
-        #check for new entities
-
-        #for each new entity, register in entity db
-        pass
+class API:
+    @staticmethod
+    def get_display(name):
+        logging.info("API get_display"+str(name))
+        return name+"test"
