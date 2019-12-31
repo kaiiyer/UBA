@@ -15,6 +15,8 @@ While sophisticated threats like APTs and insider attacks hide within the enterp
  - Threat Hunting
  - Enhance Visibility and Detection
  - Fraudulent website Activity
+ - Visualize relationship graphs between different threats.
+
 
 ### Outcome:	
 Providing advanced Insider Security to an organization and defending the infrastructure form cyber attacks
