@@ -22,8 +22,8 @@ While sophisticated threats like APTs and insider attacks hide within the enterp
 Providing advanced Insider Security to an organization and defending the infrastructure form cyber attacks
 
 ### References:
- - [Serverjs getting Started](https://serverjs.io/tutorials/getting-started/)
+ - [Getting Started with Serverjs ](https://serverjs.io/tutorials/getting-started/)
  - [nomaly-detection-using-tensorflow](https://community.tibco.com/wiki/anomaly-detection-using-tensorflow)
  - [TensorFlow-deep-learning-be-used-for-anomaly-detection](https://www.quora.com/How-can-TensorFlow-deep-learning-be-used-for-anomaly-detection)
  - [OpenUBA](https://github.com/TomorrowSOC/OpenUB)
- -  [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/autoencoder.py)
+ - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/autoencoder.py)
