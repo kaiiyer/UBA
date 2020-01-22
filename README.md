@@ -1,5 +1,5 @@
 # User Behaviour Analytics
-
+[![Build Status](https://travis-ci.com/kaiiyer/UBA.svg?branch=master)](https://travis-ci.com/kaiiyer/UBA)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9c9de4eb13f54cdda0c46b91c3616eb6)](https://app.codacy.com/manual/kaiiyer47/UBA?utm_source=github.com&utm_medium=referral&utm_content=kaiiyer/UBA&utm_campaign=Badge_Grade_Dashboard)
 
 ![Python](https://alibahaari.github.io/Badge/Python.png)  ![NPM](https://alibahaari.github.io/Badge/npm.png)		![HTML](https://alibahaari.github.io/Badge/HTML.png)		![CSS](https://alibahaari.github.io/Badge/JavaScript.png)   ![JS](https://alibahaari.github.io/Badge/CSS.png)
