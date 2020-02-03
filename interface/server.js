@@ -36,6 +36,12 @@ router.get('/cases',function(req,res){
   //__dirname : It will resolve to your project folder.
 });
 
+router.get('/D3Graph',function(req,res){
+  console.log(__dirname)
+  res.sendFile(path.join(__dirname+'/html/D3Graph.html'));
+  //__dirname : It will resolve to your project folder.
+});
+
 //add the router
 app.use('/', router);
 app.listen(process.env.port || 3000);
