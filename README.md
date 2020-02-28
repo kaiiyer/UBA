@@ -10,14 +10,30 @@
 <a href="https://github.com/kaiiyer/UBA/graphs/contributors" alt="Contributors">
 <img src="https://img.shields.io/github/contributors/kaiiyer/UBA" /></a>
 
-To aggregate and analyze machine data for Operational Intelligence using User Behavior Analytics(UBA). It creates multi-dimensional behavior baselines around users, service accounts, devices, and applications then executing unsupervised machine learning algorithms to generate anomalies and threats. Thus providing Insider security for an organization.
+## Get the updated code & documentation on XS code [here](https://cp.xscode.com/Tormorrow-SOC/OpenUB)
+Our main development, and documentation branches are first pushed to our sponsorship repository, and then eventually pushed to our public free repository. To obtain the most updated code, and documentation for OpenUBA, subscribe to our XS Code repository.
 
-## Use Case:	
- - Advanced Threat Detection
- - Higher Productivity
- - Threat Hunting
- - Enhance Visibility and Detection
- - Fraudulent website Activity
+```
+https://cp.xscode.com/Tormorrow-SOC/OpenUB
+```
+
+## Goals
+To Build a lightweight, SIEM Agnostic, UEBA Framework focused on providing:
+- Model Management
+- Community-driven Model Library
+- Model Versioning
+- Dashboard
+- Rule Storage/Management
+- Case Management
+- Peer-oriented/community intel
+- Lightweight, SIEM-agnostic infrastructure
+- Flexible/open dataset support
+
+## Components
+- Model Client (optional)
+- Model Server (Remote or Local)
+- Transport Client
+- User Inferface
 
 ## Installation
 
